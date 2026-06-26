@@ -1,1 +1,3 @@
-# DSA-
+The task of the project was to provide a university’s advising team with an application that would allow them to load courses data, search for courses by course number and display courses sorted in alphanumeric order. 
+I have written pseudocode for the same functions using three different data structures – vector, hash table and binary search tree. Then, I have evaluated the time complexity of the required operations. Based on the complexity analysis results and  notion of which operations will be most frequently performed, I have chosen binary search tree operation for the application and wrote the code based on previously created pseudocode.  
+The work on the project was most educating, as it shows an example of how helpful it is to think of more general outline of an application via pseudocode – it helps in both evaluating complexity and writing the code. The project also gave me an opportunity to practice in writing readable and maintainable code.
